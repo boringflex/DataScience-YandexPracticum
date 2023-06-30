@@ -73,6 +73,11 @@
 	<td>Python, Pandas, Matplotlib, numpy, SciPy, Statistics, Statistical Hypothesis testing, Math, Seaborn</td>
   </tr>
   <tr>
+	<td><a href="https://github.com/boringflex/DataScience-YandexPracticum/tree/main/14_basic_sql">14_basic_sql</a></td>
+    <td></td>
+	<td>Python, Pandas, Matplotlib, numpy, SciPy, Statistics, Statistical Hypothesis testing, Math, Seaborn</td>
+  </tr>
+  <tr>
 	<td><a href="https://github.com/boringflex/DataScience-YandexPracticum/tree/main/15_computer_vision">15_computer_vision</a></td>
     <td></td>
 	<td>Python, Pandas, Matplotlib, Exploratory Data Analysis, Data Visualization, Preprocessing Data, Math</td>
@@ -81,11 +86,6 @@
 	<td><a href="https://github.com/boringflex/DataScience-YandexPracticum/tree/main/16_final_project">16_final_project</a></td>
     <td></td>
 	<td>preprocessing data, Python, Pandas, PyMystem3,Lemmatization, SciPy, Matplotlib, Seaborn, SciKitLearn,numpy</td>
-  </tr>
-  <tr>
-    <td><a href=""></a></td>
-    <td></td>
-	<td>Python, Pandas, Numpy</td>
   </tr>
 </table>
 
