@@ -9,8 +9,8 @@
   </tr>
   <tr>
     <td><a href="https://github.com/boringflex/DataScience-YandexPracticum/tree/main/01_basic_python">01_basic_python</a></td>
-    <td></td>
-	<td>Python, Pandas, Matplotlib, Seaborn, exploratory data analysis, data visualization, data preprocessing, math, machine learning, gradient boosting, numpy</td>
+    <td>Исследование пользователей на данных Яндекс Музыки. Сравнение пользователей Москвы и Петербурга. </td>
+	<td>Python, Pandas.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/boringflex/DataScience-YandexPracticum/tree/main/02_data_preprocessing">02_data_preprocessing</a></td>
