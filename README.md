@@ -19,7 +19,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/boringflex/DataScience-YandexPracticum/tree/main/03_exploratory_data_analysis">03_exploratory_data_analysis</a></td>
-    <td>Определение рыночной стоимости объектов недвижимости</td>
+    <td>Определение рыночной стоимости объектов недвижимости.</td>
 	<td>Pandas, NumPy, Matplotlib.</td>
   </tr>
   <tr>
@@ -34,12 +34,12 @@
   </tr>
   <tr>
     <td><a href="https://github.com/boringflex/DataScience-YandexPracticum/tree/main/06_introduction_to_machine_learning">06_introduction_to_machine_learning</a></td>
-    <td>Построение модели подбора мобильного тарифа для пользователя</td>
+    <td>Построение модели подбора мобильного тарифа для пользователя.</td>
 	<td>Pandas, NumPy, Matplotlib, Datetime, SciPy, Sklearn, Joblib, GridSearchCV, DummyClassifier. </td>
   </tr>
   <tr>
     <td><a href="https://github.com/boringflex/DataScience-YandexPracticum/tree/main/07_supervised_learning">07_supervised_learning</a></td>
-    <td>Прогноз оттока клиентов банка на основании исторических данных</td>
+    <td>Прогноз оттока клиентов банка на основании исторических данных.</td>
 	<td>Pandas, NumPy, Matplotlib, SciPy, Sklearn, Joblib, CatBoost, GridSearchCV, DummyClassifier. </td>
   </tr>
   <tr>
